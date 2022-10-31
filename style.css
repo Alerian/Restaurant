@@ -243,7 +243,7 @@ header nav ul li{
     .menu-title{
         text-align:center;
     }
-    .menu-items::after{
+    .menu-item::after{
         width:75%;
         margin: 0 auto;
     }
